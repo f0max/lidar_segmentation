@@ -1,1 +1,1 @@
-# lidar_segmentation
+# НИР на тему "Кластеризация данных LiDAR"
